@@ -5,6 +5,7 @@ The challenges solved in Python here:
 - Likes
 - Morse
 - Rectangle to Square
+- RverseWords
 - Romal Number
 - Scramblies
 - SuperMarket
@@ -12,6 +13,11 @@ The challenges solved in Python here:
 - Which Are In
 - Parenthesis
 - Validate PIN code
+
+
+The challenges solved in JavaScript here:
+- Friend or Foe
+- Sum of Numbers
 
 ## 👤 Author
 :man: Bruno Zimmer
